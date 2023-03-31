@@ -1,6 +1,6 @@
 Name:		texlive-chordbars
 Version:	49569
-Release:	1
+Release:	2
 Summary:	Print chord grids for pop/jazz tunes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/chordbars
