@@ -3,7 +3,7 @@ Version:	70392
 Release:	1
 Summary:	Print chord grids for pop/jazz tunes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/chordbars
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/chordbars
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/chordbars.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/chordbars.doc.r%{version}.tar.xz
